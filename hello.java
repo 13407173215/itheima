@@ -1,10 +1,10 @@
 public class hello{
        public static void main(String[] args){
-            System.out.println("hello");
-            System.out.println("hello");
-              System.out.println("hello");
-          System.out.println("鏂囨湰鏂囦欢淇敼");
- System.out.println("鏂囨湰鏂囦欢淇敼");
+        
+            System.out.println("文件库的修改");
+             
+          System.out.println("文本文件修改");
+ System.out.println("文本文件修改");
 
 
 }
